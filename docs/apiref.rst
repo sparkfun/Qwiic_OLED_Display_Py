@@ -5,6 +5,6 @@ API Reference
    :members:
 
 
-.. autoclass:: QwiicOledDisplay
+.. autoclass:: QwiicOledBase
 	:members:
 
