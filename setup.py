@@ -99,6 +99,5 @@ setup(
     # You can just specify the packages manually here if your project is
     # simple. Or you can use find_packages().
     py_modules=["qwiic_oled_display"],
-    packages=["qwiic_oled_base", "qwiic_oled_base/fonts"],
 
 )
