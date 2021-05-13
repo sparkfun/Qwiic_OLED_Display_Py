@@ -34,7 +34,7 @@ extensions = [
 	'sphinx.ext.autodoc',
 	'sphinx.ext.intersphinx',
 	'sphinx.ext.viewcode',
-	'sphinx.ext.automodapi',
+	'sphinx_automodapi.automodapi',
 	'm2r2'
 	]
 
