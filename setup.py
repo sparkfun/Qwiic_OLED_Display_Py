@@ -101,6 +101,4 @@ setup(
     py_modules=["qwiic_oled_display"],
     packages=["qwiic_oled_base", "qwiic_oled_base/fonts"],
 
-    },
-
 )
