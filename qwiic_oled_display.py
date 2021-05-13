@@ -56,7 +56,7 @@ from __future__ import print_function
 import math
 import qwiic_i2c
 
-from qwiic_oled_base import QwiicOledBase as disp_driver
+from qwiic_oled_base import QwiicOledBase
 
 # Define the device name and I2C addresses. These are set in the class defintion
 # as class variables, making them avilable without having to create a class instance.
@@ -72,7 +72,7 @@ _AVAILABLE_I2C_ADDRESS = [0x3C, 0x3D]
 _LCDWIDTH            = 128
 _LCDHEIGHT           = 32
 
-class QwiicOledDisplay(disp_driver):
+class QwiicOledDisplay(QwiicOledBase):
     """
     QwiicOledDisplay
 
