@@ -41,6 +41,7 @@
 
 from __future__ import print_function
 import qwiic_oled_display
+from qwiic_oled_base import oled_logos as disp_logo
 import time
 import sys
 
