@@ -41,7 +41,7 @@
 
 """
 qwiic_oled_display
-=================
+======================
 Python module for the [Qwiic OLED Display](https://www.sparkfun.com/products/17153)
 
 This python package is a port of the existing [SparkFun Micro OLED Arduino Library](https://github.com/sparkfun/SparkFun_Micro_OLED_Arduino_Library)
