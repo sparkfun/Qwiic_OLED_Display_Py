@@ -1,5 +1,5 @@
 API Reference
 ==============
 
-.. automodapi:: qwiic-oled-display
+.. automodapi:: qwiic_oled_display
    :inherited-members:
