@@ -35,7 +35,6 @@ extensions = [
 	'sphinx.ext.intersphinx',
 	'sphinx.ext.viewcode',
 	'sphinx_automodapi.automodapi',
-	'sphinx_automodapi.smart_resolver',
 	'm2r2'
 	]
 
@@ -65,7 +64,3 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path(), '.']
 html_static_path = ['_static']
 
 html_favicon = '_static/favicon.ico'
-
-
-
-
