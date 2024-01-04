@@ -35,6 +35,7 @@ extensions = [
 	'sphinx.ext.intersphinx',
 	'sphinx.ext.viewcode',
 	'sphinx_automodapi.automodapi',
+	'sphinx_automodapi.smart_resolver',
 	'm2r2'
 	]
 
